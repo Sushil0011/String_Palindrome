@@ -14,5 +14,5 @@ if(answer==true){
     console.log("Palindrome String")
 }
 else{
-    console.log("Not A Palindrome String");
+    console.log("No");
 }
